@@ -1,0 +1,1 @@
+存放[NV-Embed-v1](https://huggingface.co/nvidia/NV-Embed-v1)模型参数
